@@ -1,5 +1,3 @@
-# SPAM-EMAIL-CLASSIFIER-PROJECT
-THIS IS A PYTHON PROJECT BASIC MODEL IF YOU PASTE ANY EMAIL IT WILL CLASSIFY YOUR EMAIL AS SPAM, CONFUSING OR SAFE.
 import tkinter as tk
 from tkinter import messagebox
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
